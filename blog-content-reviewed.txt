@@ -1,0 +1,19 @@
+Hoopscope Blog Content Review (July 2025)
+
+All posts on the blog have been reviewed to ensure:
+- Alignment with basketball analytics and data-driven training focus
+- Clear, concise writing (technical where needed, accessible for all players)
+- Engaging introductions and strong, actionable takeaways
+- Proper heading structure (H1/H2/H3)
+- Keyword-rich for SEO on terms like 'basketball analytics', 'training', 'workout routines', 'NBA data', etc.
+- All images have alt text and now use loading="lazy" for performance
+- Posts meet accessibility and readability standards
+
+**New Blog Topic Suggestions** (for further growth):
+- "AI vs Human: Which Knows Your Game Better?"
+- "How to Track and Improve Your Shot Selection with Advanced Analytics"
+- "Predictive Analytics in Basketball: The Next Frontier"
+- "How Data-Driven Drills Shorten The Path from Amateur to Pro"
+- "Inside NBA Tracking Data: Lessons For Players"
+
+For future updates, continue to emphasize actionable, metrics-driven content and technical explanations tailored for training-minded readers.
